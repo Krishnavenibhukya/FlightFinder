@@ -12,5 +12,5 @@ A full-stack flight booking web application with role-based authentication for *
 
 Demo - <a href="https://drive.google.com/file/d/1RzGIXwahdWaGrKTjTyRuRIvMlB8w8mSH/view?usp=drive_link">view video</a>
 
-# Developed by Dinesh Davuluri (22FE1A0544)
+# Developed by Bhukya Krishnaveni (22FE1A0517)
 
